@@ -1,5 +1,5 @@
 #!/bin/bash
-echo 'Hello World'
+echo 'Hellooo'
 git add .  
 read -p "Commit description: " desc  
 git commit -m $desc  
